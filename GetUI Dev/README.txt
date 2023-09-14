@@ -1,4 +1,4 @@
-The goal of this project is to create a website that aims to help software developers build a better UI design for their websites.
+The goal of this project is to create a website that aims to help software developers and UI/UX developers build a better UI design for their websites.
 
 TECHNOLOGIES
 Languages: HTML, CSS, JavaScript
